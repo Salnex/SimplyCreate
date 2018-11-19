@@ -4,7 +4,7 @@
 - Xtones
 - LittleTiles
 - ExtraBit Manipulation
-## 1.2
+## 1.1.1
 ### Downgraded
 World Edit CUI
 ### Configs
